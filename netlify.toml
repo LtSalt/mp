@@ -1,3 +1,6 @@
+[[plugins]]
+	package = "/prebuild"
+
 [build]
 	command = "pnpm build"
 	publish = "build"
